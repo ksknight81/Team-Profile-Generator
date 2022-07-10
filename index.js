@@ -1,4 +1,4 @@
 const inquirer = require("inquirer");
-const Employee = require('./lib/Employee');
+const Employee = require('../lib/Employee');
 
-new Employee().startProgram()
+new Employee();
