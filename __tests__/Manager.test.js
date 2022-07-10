@@ -5,6 +5,7 @@ test('creates a manager object', () => {
 
     expect(manager.name).toBe('Bob');
     
+    
 })
 
 module.exports = Manager; 
